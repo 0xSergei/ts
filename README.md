@@ -1,5 +1,0 @@
-Basic ReadME file</br>
-
-<b>ADDED BY MAINTAINER ON DEV BRANCH</b>
-
-<i>ITALIC CHANGED FROM FORKED REPO</i>
